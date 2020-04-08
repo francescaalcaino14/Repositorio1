@@ -5,13 +5,21 @@ Mi primer repositorio
 
 **esto** es una bajada
 
-### Aprendiendo markdown
+## Aprendiendo markdown
 
 *practicando cursiva*
+
+
 **practicando negrita**
+
+
 ***cursiva y negrita***
+
+
 [Titulo]
+
 <Codigo1>
 <Codigo2>
 <Codigo3>
   
+
