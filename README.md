@@ -18,8 +18,5 @@ Mi primer repositorio
 
 [Titulo]
 
-<Codigo1>
-<Codigo2>
-<Codigo3>
   
 
